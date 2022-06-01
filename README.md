@@ -1,10 +1,5 @@
 ### Hi there 👋, I'm Grant
 
-## I'm a QA Engineer
-- 🔭 I like Software Testing
-- 💻 I like to write code
-- 📚 I am learning new things
-
 ## My test automation projects
 
 |         Repository     | Tools |
