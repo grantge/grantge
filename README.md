@@ -3,7 +3,6 @@
 ## I'm a QA Engineer
 - 🔭 I like Software Testing
 - 💻 I like to write code
-- 🎮 I like GameDev and Indie Games
 - 📚 I am learning new things
 
 ## My test automation projects
